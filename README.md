@@ -13,8 +13,7 @@ to complete this project maybe will take from me around 2-3 month of hard workin
 - [Technologies Used](#technologies-used)
 - [License](#license)
 - [Contributing](#contributing)
-- [Support](#support)
-- [Acknowledgements](#acknowledgements)
+
 
 ## Description
 
