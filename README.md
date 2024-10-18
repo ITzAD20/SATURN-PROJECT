@@ -71,8 +71,5 @@ This project is licensed under the [AGPL License](https://www.gnu.org/licenses/a
 
 ## Support
 
-For any issues or inquiries, please open an issue on GitHub or contact [support@example.com](mailto:support@example.com).
+For any issues or inquiries, please open an issue on GitHub.
 
-## Acknowledgements
-
-Special thanks to all contributors and testers for their support and feedback.
